@@ -1,0 +1,5 @@
+Reference,Component,Value / Part,Package / Footprint,Quantity,Purpose
+J1,2-pin connector,2.54 mm pitch,HDR-TH_2P-P2.54-V-F,1,5V power input
+BZ1,Magnetic active buzzer,Huaneng HNB09A05 / LCSC C96493,"BUZ-TH, 9 mm, 5 mm pin pitch",1,5V audible indicator
+R1,Through-hole resistor,330 ohm,R_AXIAL-0.4,1,LED current limiting
+LED1,Through-hole LED,5 mm,LED-TH_BD5.8-P2.54-FD,1,5V visual indicator
